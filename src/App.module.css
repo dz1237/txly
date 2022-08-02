@@ -21,7 +21,10 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+h1{
+  font-family: "Slidefu-Regular-2";
+  font-size: 55px;
+}
 .robotList {
 	width: 85vw;
 	display: grid;
